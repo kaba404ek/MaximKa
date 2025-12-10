@@ -7,7 +7,7 @@
 > 
 > ![[Pasted image 20251210014453.png]]
 
-$\int_{a}^{b} f(x) \,dx$	
+$$\int_{a}^{b} f(x) \,dx$$
 
 > **Идея**
 
